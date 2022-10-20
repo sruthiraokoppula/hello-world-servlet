@@ -19,4 +19,4 @@ sample
 10-06-2022--->it is firday
 16-06-2022--> today is THURSDAY
 21-06-2022
-20-10-2022
+20-10-2022--> It is Thursday
